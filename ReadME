@@ -1,0 +1,30 @@
+Hello and thank you for viewing the REPO hosting my Web HW Assignment. In this REPO you'll find the following files:
+
+index.html: This contains the landing page for the project. I used the same text as shown in the HW images to help
+with the spacing and sizing of all the components.
+
+Comparisons.html: This is the code for the "Comparisons" Page
+
+data.html: This is the code for the data page. I used the link in the HW instructions in order to create the table
+and I used Bootstrap to give it some flair
+
+There are 4 visual pages. When available I used the text from the images in the HW instructions, and when unavailable
+I created my own text to fill the space. The analysis came from an old HW assignment; so, I decided to use the exemplar
+responses in the instructions if provided in the instructions:
+
+maxTemp.html
+Humidity.html
+Cloudiness.html
+WindSpeed.html
+
+There is also my css file used and referenced in each of the pages listed above: 
+styleMP.css 
+
+Lastly, the original data file used and all the pictures inside an Assets folder:
+
+cities.csv
+Assets:
+fig1 (Latitude vs. Max Temp)
+fig2 (Latitude vs. Humidity)
+fig3 (Latitude vs. Cloudiness)
+fig4 (Latitude vs. WindSpeed)
